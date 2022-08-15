@@ -2,6 +2,9 @@
 
 ## Description
 
+DEPLOYED APP: [link](https://tech-blog-proj-aj.herokuapp.com/)
+PROJECT REPO: [link](https://github.com/Ajimoto/techBlog)
+
 This application is a simple example of a blog style website where users can create an account and post/view information from other users.
 
 Deployed Application:
@@ -30,10 +33,10 @@ To get started in the development environment, follow the following steps:
 
 ## Usage
 
-To use our application, either set it up locally using the above installation guide, or follow the [link]() above to access the deployed app.
+To use our application, either set it up locally using the above installation guide, or follow the [link](https://tech-blog-proj-aj.herokuapp.com/) above to access the deployed app.
 Then, create an account. You will be redirected to the main page, and can switch pages from there by clicking the buttons in the navbar.
 
-![Alt text](./VivaChatScreenshot.png)
+![Alt text](/screenshot.png)
 
 ## Credits
 
